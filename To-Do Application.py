@@ -1,14 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[2]:
-
-
 #Description: Create a basic to-do list application where users can add tasks,
 #mark them as complete, and remove them from the list
-
-
-# In[ ]:
 
 
 tasks=[]
@@ -85,19 +79,7 @@ while True:
 print("Goodbye 👋")
 
 
-# In[4]:
 
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
